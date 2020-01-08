@@ -1,5 +1,5 @@
 {
-  "fake_list":[],
+  "fake_list":[{id: 2}],
   "profile": {
     "name": "typicode"
   }
