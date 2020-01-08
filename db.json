@@ -1,5 +1,13 @@
 {
-  "fake_list":[{id: 1, name: 'test'}],
+  "fake_list": [
+    {
+      "title": "ddd",
+      "createdAt": "2020-01-13T12:54:43.587Z",
+      "owner": "付晓晓",
+      "subDescription": "sssssssssssssssss",
+      "id": 1
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
